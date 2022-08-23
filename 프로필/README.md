@@ -3,7 +3,7 @@
 ### What the project does
 <pre>
 First,
-We Convert Foodes to Global Code the FoodiCode.
+We Convert Food into Global Code, the FoodiCode.
 Of Course everyone can also make their own Code.
 it can make everyone can enjoy their foods in strange place (with unreadable menu)
 </pre>
